@@ -10,7 +10,7 @@ Before you begin, ensure you have met the following requirements:
 - Integrated Development Environment (IDE): Use an IDE like IntelliJ IDEA, Eclipse, or Visual Studio Code.
 
 ## Configuration
-- application.properties: Configure your database and other properties in src/main/resources/application.properties. Make that the database URL, username, and password meet your local setup.
+- Configure your database and other properties in src/main/resources/application.properties. Make sure that the database URL, username, and password meet your local setup.
 
 ## Running the Application
 - Clone the Git repository to your local machine.
