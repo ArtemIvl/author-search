@@ -14,11 +14,19 @@ Before you begin, ensure you have met the following requirements:
 
 ## Running the Application
 - Clone the Git repository to your local machine.
+```
 git clone https://github.com/ArtemIvl/author-search.git
+```
+```
 cd author-search/author-search-app
+```
+
 - Open the project in your IDE.
-- Build the project by running mvn clean install command in the terminal.
-- Run the application by right-clicking on the AuthorSearchAppApplication class and select Run 'AuthorSearchAppApplication'. Alternatively, you can run the application from the terminal by executing the following command: mvn spring-boot:run.
+- Build the project by running
+```mvn clean install```
+command in the terminal.
+- Run the application by right-clicking on the AuthorSearchAppApplication class and select Run 'AuthorSearchAppApplication'. Alternatively, you can run the application from the terminal by executing the following command:
+```mvn spring-boot:run```
 
 ## Accessing the Application
 Once the application is running, you can access the endpoints using a tool like Postman or your web browser.
