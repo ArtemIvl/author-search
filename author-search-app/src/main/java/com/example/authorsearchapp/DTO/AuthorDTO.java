@@ -10,7 +10,6 @@ public class AuthorDTO {
         this.name = name;
     }
 
-    // Getters and setters (omitted for brevity)
     public Long getId() {
         return id;
     }
